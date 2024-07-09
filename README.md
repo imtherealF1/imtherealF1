@@ -1,6 +1,6 @@
 - im f1
 - interested in coding
-- currently learning python
+- currently learning html and js
 - he/him
 
 <!---
